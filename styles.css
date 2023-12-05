@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+* {
+    font-family: 'Nova Square', sans-serif;
+}
+
+.nav__ul {
+    text-align: center;
+}
+
+.nav__li {
+    display: inline-block;
+    margin-right: 100px;
+
+}
+
+.nav__li a{
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: center;
+}
+
+.parrafo_izq {
+    text-align: left;
+}
